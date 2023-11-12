@@ -13,6 +13,10 @@ module.exports = {
       colors: {
         primary: '#323516',
       },
+      borderColor: {
+        primary: '#8B9E70',
+        secondary: '#323516',
+      },
     },
   },
   plugins: [],
